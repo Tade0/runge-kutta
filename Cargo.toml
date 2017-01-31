@@ -1,0 +1,7 @@
+[package]
+name = "runge_kutta"
+version = "0.1.0"
+authors = ["Tadeusz Piskozub <tadeusz.piskozub@gmail.com>"]
+
+[dependencies]
+rustfft = { git = "https://github.com/awelkie/RustFFT" }
